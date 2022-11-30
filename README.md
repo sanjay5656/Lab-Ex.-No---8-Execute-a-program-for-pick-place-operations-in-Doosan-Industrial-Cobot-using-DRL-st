@@ -1,4 +1,5 @@
-# Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-studio
+##EXPERIMENT NO: 08
+##Execute a program for pick place operations in Doosan Industrial Cobot using DRL studio
 ## Aim :
 To Execute a program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio.
 
@@ -40,17 +41,18 @@ Procedure:
 
 
 ## Program 
-// Roll no:
+![image](https://user-images.githubusercontent.com/89122599/175564598-d6a39565-9b6a-469e-939f-8285295a89f0.png)
 
-//Name:
-MoveJ ................
+![image](https://user-images.githubusercontent.com/89122599/175564642-c14ecaa1-7959-4e0d-868a-d98e18ead090.png)
+
+
 
 ## output : 
+ 
+ ![image](https://user-images.githubusercontent.com/89122599/175564690-8b41ce14-7538-4bed-9cef-ee3d32a16ad6.png)
 
 
 ## Results: 
 
 
-
-
-
+Thus, program for pick and place operation in Doosan Industrial Cobot using DRL studio is executed.
